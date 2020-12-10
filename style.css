@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+
+.form-name {
+color: grey;
+margin-right: 20px;
+position: relative;
+bottom:8px;
+height: 25px;
+}
+
+.form-comment {
+    color: gray;
+    display: flex;
+    height: 100px;
+}
+
+.form-submit {
+    background-color: rgb(152, 152, 240);
+    font-size: 1em;
+    color: white;
+    position: relative;
+    top:8px;
+}
